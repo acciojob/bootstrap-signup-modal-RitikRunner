@@ -6,6 +6,12 @@ lebel{
 paddin: 20px
 }
 .btn{
-padding: 
+padding: 20px;	
+}
+.form-popup{
+display: none;
+}
+.darkover{
+
 	
 }
